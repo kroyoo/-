@@ -1,0 +1,4 @@
+File dir did not exist, make dir...
+makedirs dir success
+文件创建成功！
+{u'startdate': u'20210113', u'urlbase': u'/th?id=OHR.BolivianSummer_EN-US6076997237', u'fullstartdate': u'202101130800', u'copyright': u'Flamingos in the Eduardo Avaroa Andean Fauna National Reserve in Bolivia (\xc2\xa9 Art Wolfe/Danita Delimont)', u'title': u'Strolling across the Red Lagoon', u'url': u'/th?id=OHR.BolivianSummer_EN-US6076997237_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp', u'hs': [], u'hsh': u'6d6fb5ac8384f17759d03b636dabe756', u'bot': 1, u'quiz': u'/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210113_BolivianSummer%22&FORM=HPQUIZ', u'drk': 1, u'copyrightlink': u'https://www.bing.com/search?q=eduardo+avaroa+andean+fauna+national+reserve&form=hpcapt&filters=HpDate%3a%2220210113_0800%22', u'wp': True, u'enddate': u'20210114', u'top': 1}
