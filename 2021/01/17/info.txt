@@ -1,0 +1,4 @@
+File dir did not exist, make dir...
+makedirs dir success
+文件创建成功！
+{u'startdate': u'20210117', u'urlbase': u'/th?id=OHR.PailonDelDiablo_EN-US4820504961', u'fullstartdate': u'202101170800', u'copyright': u'Agoy\xe1n waterfall near Ba\xf1os de Agua Santa, Ecuador (\xa9 Laura BC/Getty Images)', u'title': u'On the Route of the Waterfalls', u'url': u'/th?id=OHR.PailonDelDiablo_EN-US4820504961_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp', u'hs': [], u'hsh': u'0d868acab78d489b16b516926340645a', u'bot': 1, u'quiz': u'/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210117_PailonDelDiablo%22&FORM=HPQUIZ', u'drk': 1, u'copyrightlink': u'https://www.bing.com/search?q=agoyan+ecuador&form=hpcapt&filters=HpDate%3a%2220210117_0800%22', u'wp': True, u'enddate': u'20210118', u'top': 1}
