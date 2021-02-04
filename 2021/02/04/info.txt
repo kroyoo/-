@@ -1,0 +1,4 @@
+File dir did not exist, make dir...
+makedirs dir success
+文件创建成功！
+{u'startdate': u'20210204', u'urlbase': u'/th?id=OHR.VosgesBioReserve_EN-US9600640906', u'fullstartdate': u'202102040800', u'copyright': u'Northern Vosges Regional Nature Park, France (\xc2\xa9 Michel Rauch/Minden Pictures)', u'title': u'Where is this wintry road?', u'url': u'/th?id=OHR.VosgesBioReserve_EN-US9600640906_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp', u'hs': [], u'hsh': u'e54bf292ed80a9e7dabf0cafb19ed4f5', u'bot': 1, u'quiz': u'/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210204_VosgesBioReserve%22&FORM=HPQUIZ', u'drk': 1, u'copyrightlink': u'https://www.bing.com/search?q=northern+vosges+regional+nature+park+france&form=hpcapt&filters=HpDate%3a%2220210204_0800%22', u'wp': True, u'enddate': u'20210205', u'top': 1}
