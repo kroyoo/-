@@ -1,0 +1,4 @@
+File dir did not exist, make dir...
+makedirs dir success
+文件创建成功！
+{u'startdate': u'20210209', u'urlbase': u'/th?id=OHR.MoonDogs_EN-US0007581724', u'fullstartdate': u'202102090800', u'copyright': u'Moon dog photographed at Hug Point Falls on the Oregon coast (\xc2\xa9 Ben Coffman/Tandem Stills + Motion)', u'title': u"What's going on in this sky?", u'url': u'/th?id=OHR.MoonDogs_EN-US0007581724_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp', u'hs': [], u'hsh': u'c3d4271936b473889cc2db13d658d632', u'bot': 1, u'quiz': u'/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210209_MoonDogs%22&FORM=HPQUIZ', u'drk': 1, u'copyrightlink': u'https://www.bing.com/search?q=%2bmoon+dog+paraselene&FORM=hpcapt&filters=HpDate%3a%2220210209_0800%22', u'wp': True, u'enddate': u'20210210', u'top': 1}
