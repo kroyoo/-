@@ -1,0 +1,4 @@
+File dir did not exist, make dir...
+makedirs dir success
+文件创建成功！
+{u'startdate': u'20210226', u'urlbase': u'/th?id=OHR.JinliStreet_EN-US9813774321', u'fullstartdate': u'202102260800', u'copyright': u'Red lanterns hanging in Jinli Street, Chengdu, China (\xc2\xa9 Philippe LEJEANVRE/Getty Images)', u'title': u'Lighting the way to new beginnings', u'url': u'/th?id=OHR.JinliStreet_EN-US9813774321_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp', u'hs': [], u'hsh': u'c0d5c51c2a1b5a44badc56d3cbbc82d7', u'bot': 1, u'quiz': u'/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210226_JinliStreet%22&FORM=HPQUIZ', u'drk': 1, u'copyrightlink': u'https://www.bing.com/search?q=lantern+festival&form=hpcapt&filters=HpDate%3a%2220210226_0800%22', u'wp': True, u'enddate': u'20210227', u'top': 1}
