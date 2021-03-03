@@ -1,0 +1,4 @@
+File dir did not exist, make dir...
+makedirs dir success
+文件创建成功！
+{u'startdate': u'20210303', u'urlbase': u'/th?id=OHR.WWDLions_EN-US0205102042', u'fullstartdate': u'202103030800', u'copyright': u'Female lions in the forest surrounding Lake Nakuru, Kenya (\xc2\xa9 Scott Davis/Tandem Stills + Motion)', u'title': u'Climb a tree for wild animals and plants', u'url': u'/th?id=OHR.WWDLions_EN-US0205102042_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp', u'hs': [], u'hsh': u'34b3cd55512b34bc32bfa6cd5b277e97', u'bot': 1, u'quiz': u'/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210303_WWDLions%22&FORM=HPQUIZ', u'drk': 1, u'copyrightlink': u'https://www.bing.com/search?q=World+Wildlife+Day+2021&form=hpcapt&filters=HpDate%3a%2220210303_0800%22', u'wp': True, u'enddate': u'20210304', u'top': 1}
