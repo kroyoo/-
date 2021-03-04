@@ -1,0 +1,4 @@
+File dir did not exist, make dir...
+makedirs dir success
+文件创建成功！
+{u'startdate': u'20210304', u'urlbase': u'/th?id=OHR.Comma_EN-US0289421685', u'fullstartdate': u'202103040800', u'copyright': u'Nusa Dua coast with breakwater, Bali, Indonesia (\xc2\xa9 Dkart/Getty Images)', u'title': u'The most wonderful day of the year. Period.', u'url': u'/th?id=OHR.Comma_EN-US0289421685_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp', u'hs': [], u'hsh': u'1ab4c4a2fc572290ce10184371d4a86a', u'bot': 1, u'quiz': u'/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210304_Comma%22&FORM=HPQUIZ', u'drk': 1, u'copyrightlink': u'https://www.bing.com/search?q=national+grammar+day&form=hpcapt&filters=HpDate%3a%2220210304_0800%22', u'wp': True, u'enddate': u'20210305', u'top': 1}
