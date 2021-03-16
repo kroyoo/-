@@ -1,0 +1,4 @@
+File dir did not exist, make dir...
+makedirs dir success
+文件创建成功！
+{u'startdate': u'20210316', u'urlbase': u'/th?id=OHR.BifengxiaPanda_EN-US8585443782', u'fullstartdate': u'202103160700', u'copyright': u'Giant panda cub at Bifengxia Panda Base, Sichuan, China (\xc2\xa9 Suzi Eszterhas/Minden Pictures)', u'title': u'Why does this panda cub look so happy?', u'url': u'/th?id=OHR.BifengxiaPanda_EN-US8585443782_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp', u'hs': [], u'hsh': u'aba494e9be345136d7bc8d0728c3aca0', u'bot': 1, u'quiz': u'/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210316_BifengxiaPanda%22&FORM=HPQUIZ', u'drk': 1, u'copyrightlink': u'https://www.bing.com/search?q=Giant+panda&form=hpcapt&filters=HpDate%3a%2220210316_0700%22', u'wp': True, u'enddate': u'20210317', u'top': 1}
