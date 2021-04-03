@@ -1,0 +1,4 @@
+File dir did not exist, make dir...
+makedirs dir success
+文件创建成功！
+{u'startdate': u'20210403', u'urlbase': u'/th?id=OHR.AnivaLighthouse_EN-US8147045989', u'fullstartdate': u'202104030700', u'copyright': u'Lighthouse at Cape Aniva, Sakhalin Island, Russia (\xc2\xa9 Amazing Aerial Agency/Offset by Shutterstock)', u'title': u'A light at the edge of the world', u'url': u'/th?id=OHR.AnivaLighthouse_EN-US8147045989_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp', u'hs': [], u'hsh': u'b18484b1d461caa7f6e2cd1493127461', u'bot': 1, u'quiz': u'/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210403_AnivaLighthouse%22&FORM=HPQUIZ', u'drk': 1, u'copyrightlink': u'https://www.bing.com/search?q=aniva+lighthouse+sakhalin&form=hpcapt&filters=HpDate%3a%2220210403_0700%22', u'wp': True, u'enddate': u'20210404', u'top': 1}
