@@ -1,0 +1,4 @@
+File dir did not exist, make dir...
+makedirs dir success
+文件创建成功！
+{u'startdate': u'20210422', u'urlbase': u'/th?id=OHR.MississippiRiver_EN-US2192534174', u'fullstartdate': u'202104220700', u'copyright': u'Mississippi River on the border between Arkansas and Mississippi (\xc2\xa9 NASA)', u'title': u'Gazing down on planet Earth', u'url': u'/th?id=OHR.MississippiRiver_EN-US2192534174_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp', u'hs': [], u'hsh': u'0bf6a97b0ea026a0fcf3266aea5a2aff', u'bot': 1, u'quiz': u'/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210422_MississippiRiver%22&FORM=HPQUIZ', u'drk': 1, u'copyrightlink': u'https://www.bing.com/search?q=earth+day&form=hpcapt&filters=HpDate%3a%2220210422_0700%22', u'wp': True, u'enddate': u'20210423', u'top': 1}
