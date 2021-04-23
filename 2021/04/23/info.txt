@@ -1,0 +1,4 @@
+File dir did not exist, make dir...
+makedirs dir success
+文件创建成功！
+{u'startdate': u'20210423', u'urlbase': u'/th?id=OHR.BatlloJordi_EN-US0619227174', u'fullstartdate': u'202104230700', u'copyright': u'Casa Batll\xf3 in Barcelona, Catalonia, Spain (\xa9 Marco Arduino/Sime/eStock Photo)', u'title': u'A house of grand scale(s)', u'url': u'/th?id=OHR.BatlloJordi_EN-US0619227174_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp', u'hs': [], u'hsh': u'd71b17bec2abdc2edf01686dd6aed048', u'bot': 1, u'quiz': u'/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210423_BatlloJordi%22&FORM=HPQUIZ', u'drk': 1, u'copyrightlink': u'https://www.bing.com/search?q=casa+batllo&form=hpcapt&filters=HpDate%3a%2220210423_0700%22', u'wp': False, u'enddate': u'20210424', u'top': 1}
